@@ -46,7 +46,9 @@ The dashboard provides clear insights into:
 - Patient health trends
 - Resource utilization
 - Doctor performance and patient satisfaction
+  
 It supports hospital management in planning better patient services, optimizing occupancy, and ensuring financial efficiency.
+
 
 
     
