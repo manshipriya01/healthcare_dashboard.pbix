@@ -40,6 +40,14 @@ Hospitals face challenges in understanding large amounts of patient data, diagno
 4. If the dataset is not embedded, load the Excel/CSV file from the `/data` folder
 5. Click on **Refresh** to update visuals
 6. Use filters and slicers to interact with the dashboard
+## Result & Conclusion
+The dashboard provides clear insights into:
+- Hospital efficiency
+- Patient health trends
+- Resource utilization
+- Doctor performance and patient satisfaction
+It supports hospital management in planning better patient services, optimizing occupancy, and ensuring financial efficiency.
+
 
     
  
