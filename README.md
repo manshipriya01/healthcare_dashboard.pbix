@@ -31,8 +31,8 @@ Hospitals face challenges in understanding large amounts of patient data, diagno
  - **Private Beds** have the highest occupancy.
 - **Viral Infection** is the most diagnosed illness.
 - **Average Length of Stay** is 8.25 days.
-- **Billing amount exceeds insurance coverage** for all major diagnoses.
-- **Doctors’ feedback scores** are consistently high (around 4.8).
+- **Billing amount exceeds insurance coverage** for all major diagnoses, this gap may represent out-of-pocket expenses for patients.
+- **Doctors’ feedback scores** are consistently high, showcasing quality of care and service satisfaction.
 ## How to Run the Project
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 2. Clone this repository or download the `.pbix` file
