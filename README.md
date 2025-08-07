@@ -27,3 +27,53 @@ Hospitals face challenges in understanding large amounts of patient data, diagno
   - Line Chart: Billing vs Insurance Amount per Diagnosis
 - **Data Table**
   - Detailed patient-level data: ID, Admit & Discharge Dates, Doctor Name, Feedback Score
+ ## Key Insights
+ - **Private Beds** have the highest occupancy.
+- **Viral Infection** is the most diagnosed illness.
+- **Average Length of Stay** is 8.25 days.
+- **Billing amount exceeds insurance coverage** for all major diagnoses.
+- **Doctors’ feedback scores** are consistently high (around 4.8).
+## How to Run the Project
+1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+2. Clone this repository or download the `.pbix` file
+3. Open the file in Power BI Desktop
+4. If the dataset is not embedded, load the Excel/CSV file from the `/data` folder
+5. Click on **Refresh** to update visuals
+6. Use filters and slicers to interact with the dashboard
+
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
