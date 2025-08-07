@@ -48,6 +48,8 @@ The dashboard provides clear insights into:
 - Doctor performance and patient satisfaction
   
 It supports hospital management in planning better patient services, optimizing occupancy, and ensuring financial efficiency.
+## Dashboard Preview
+<img width="1307" height="790" alt="healthcare_dashboard" src="https://github.com/user-attachments/assets/b074dee9-e761-4df9-b62a-0ab0558aa1a4" />
 
 
 
