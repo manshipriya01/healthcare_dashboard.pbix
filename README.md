@@ -1,2 +1,7 @@
-# healthcare_dashboard.pbix
-An interactive Power BI dashboard designed to analyze hospital performance using key healthcare metrics like patient count, billing, diagnosis, bed usage, and doctor feedback.
+## Project Title
+**Healthcare Data Analysis Using Power BI**
+## Overview
+This project presents a dynamic healthcare analysis dashboard that visualizes critical hospital metrics such as total patients, average length of stay, total billing, feedback scores, diagnosis distribution, and bed occupancy. The goal is to assist hospital management in monitoring performance and making informed decisions.
+## Problem Statement
+Hospitals face challenges in understanding large amounts of patient data, diagnosis trends, and financial billing details. Without centralized and visual analytics, it becomes difficult to monitor efficiency, identify resource shortages, or improve patient care. This dashboard solves that gap with clear visual insights.
+## Dataset Used
